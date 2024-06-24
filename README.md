@@ -1,5 +1,9 @@
 ## Bem vindo ao meu perfil! 👋
 
+Sou Daniela
+Estou estudando p5js no javascript estamos aprendendo progamação, criei essa conta para colocar e amazenar meus projetos aqui. 
+Meu contato é 00001108189647sp@al.educacao.sp.gov.br.
+
 <!--
 **DaniParraSilva/DaniParraSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
